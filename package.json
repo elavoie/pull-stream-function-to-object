@@ -1,0 +1,32 @@
+{
+  "name": "pull-stream-function-to-object",
+  "version": "1.0.0",
+  "description": "Converts a pull-stream function into an equivalent object form.",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "pull-stream": "^3.5.0",
+    "tape": "^4.6.3"
+  },
+  "scripts": {
+    "test": "tape test/*.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/elavoie/pull-stream-function-to-object.git"
+  },
+  "keywords": [
+    "pull-stream",
+    "object",
+    "function"
+  ],
+  "author": "Erick Lavoie",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/elavoie/pull-stream-function-to-object/issues"
+  },
+  "homepage": "https://github.com/elavoie/pull-stream-function-to-object#readme"
+}
