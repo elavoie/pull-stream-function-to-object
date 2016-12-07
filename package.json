@@ -1,8 +1,8 @@
 {
   "name": "pull-stream-function-to-object",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Converts a pull-stream function into an equivalent object form.",
-  "main": "index.js",
+  "main": "src/index.js",
   "directories": {
     "test": "test"
   },
