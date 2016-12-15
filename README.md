@@ -1,5 +1,7 @@
 [![Build Status](https://travis-ci.org/elavoie/pull-stream-function-to-object.svg?branch=master)](https://travis-ci.org/elavoie/pull-stream-function-to-object)
 
+# pull-stream-function-to-object
+
 Converts a pull-stream function into an equivalent object form. 
 
 Additional methods on the function are also present on the object with their 'this' parameter bound to the original function.
